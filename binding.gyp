@@ -18,6 +18,7 @@
                 "src/lbry.c",
                 "src/lyra2re.c",
                 "src/lyra2z.c",
+		"src/memehash.c",
                 "src/nist5.c",
                 "src/quark.c",
                 "src/qubit.c",
