@@ -19,6 +19,7 @@ extern "C" {
     #include "lyra2.h"
     #include "lyra2re.h"
     #include "lyra2z.h"
+    #include "memehash.h"
     #include "nist5.h"
     #include "quark.h"
     #include "qubit.h"
